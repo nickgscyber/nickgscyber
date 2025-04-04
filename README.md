@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nickgscyber, I am a senior cybersecurity student at ODU. 
+- 👋 Hi, I’m @nickgscyber, I am currently a cybersecurity analyst learning programming. 
 - 👀 I’m interested in cloud security and web application security.
 
